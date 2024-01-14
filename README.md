@@ -1,4 +1,6 @@
 # TechneuroInternship_TemperatureConversion_Python
+Task:1 Temperature Conversion Script:
+Convert temperatures from Celsius to Fahrenheit using a Python script. It's a fundamental and practical program that beginners can grasp.
 
 1. The code begins with a couple of print statements, which display a header for the program:
 
