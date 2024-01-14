@@ -1,0 +1,26 @@
+#print('By SHRUTI GODSE\n')
+print('TEMPERATURE CONVERSION Python program ')
+print('(Converting Temperatures from CELSIUS to FAHRENHEIT):- \n')
+
+# Function to convert Celsius to Fahrenheit
+def celsius_to_fahrenheit(celsius):
+    fahrenheit = (celsius * 9/5) + 32
+    return fahrenheit
+
+# Input temperature in Celsius
+celsius = float(input("Enter temperature in Celsius: "))
+
+# Convert Celsius to Fahrenheit
+fahrenheit = celsius_to_fahrenheit(celsius)
+
+# Display the result
+print("Temperature in Fahrenheit:", fahrenheit)
+
+output:
+
+TEMPERATURE CONVERSION Python program 
+(Converting Temperatures from CELSIUS to FAHRENHEIT):- 
+
+Enter temperature in Celsius: 66
+Temperature in Fahrenheit: 150.8
+> 
